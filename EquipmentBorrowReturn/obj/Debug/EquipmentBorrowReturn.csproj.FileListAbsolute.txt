@@ -1,0 +1,151 @@
+c:\users\eugine\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\EquipmentBorrowReturn.exe.config
+c:\users\eugine\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\EquipmentBorrowReturn.exe
+c:\users\eugine\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\EquipmentBorrowReturn.pdb
+c:\users\eugine\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Admin.resources
+c:\users\eugine\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Personnel.resources
+c:\users\eugine\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Properties.Resources.resources
+c:\users\eugine\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.csproj.GenerateResource.Cache
+c:\users\eugine\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.exe
+c:\users\eugine\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.pdb
+c:\users\eugine\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\Guna.UI2.dll
+c:\users\eugine\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.PersonnelMain.resources
+c:\users\eugine\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.AdminMain.resources
+c:\users\eugine\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Manage.resources
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Equipments.resources
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Transactions.resources
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Borrowed.resources
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Returned.resources
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Personnels.resources
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.BorrowersInfoList.resources
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.csprojResolveAssemblyReference.cache
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.BorrowedList.resources
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.BorrowEquipment.resources
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.EquipmentList.resources
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.ReturnEquipment.resources
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\Google.Protobuf.dll
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\MySql.Data.dll
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Buffers.dll
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Memory.dll
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\Google.Protobuf.pdb
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\Google.Protobuf.xml
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\MySql.Data.xml
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Buffers.xml
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Memory.xml
+C:\Users\EUGINE\documents\visual studio 2015\Projects\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\EquipmentBorrowReturn.exe.config
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\EquipmentBorrowReturn.exe
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\EquipmentBorrowReturn.pdb
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\Google.Protobuf.dll
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\MySql.Data.dll
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Buffers.dll
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Memory.dll
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\Google.Protobuf.pdb
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\Google.Protobuf.xml
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\MySql.Data.xml
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Buffers.xml
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Memory.xml
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.AdminMain.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.AdminDashboard.Chart.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Equipments.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Borrowed.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.AdminDashboard.Manage_Equipments.AddEquipment.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.AdminDashboard.Manage_Equipments.EditEquipment.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.AdminDashboard.Manage_Personnels.AddPersonnel.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.AdminDashboard.Manage_Personnels.EditPersonnel.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.AdminDashboard.Manage_Personnels.ManagePersonnel.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.BorrowEquipment.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.BorrowersInfoList.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Admin.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Personnel.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Manage.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.PersonnelDashboard.Manage_Borrower.AddBorrower.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.PersonnelDashboard.Manage_Borrower.EditBorrower.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.PersonnelDashboard.ManageBorrower.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.PersonnelMain.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.PersonnelDashboard.StockIn.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.PersonnelDashboard.StockOut.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.Registration.AdminRegistration.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Properties.Resources.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Returned.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Transactions.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.ReturnEquipment.resources
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.csproj.GenerateResource.Cache
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.exe
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.pdb
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\EUGINE\Desktop\Final\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.csprojResolveAssemblyReference.cache
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\EquipmentBorrowReturn.exe.config
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\EquipmentBorrowReturn.exe
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\EquipmentBorrowReturn.pdb
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\Google.Protobuf.dll
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\MySql.Data.dll
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Buffers.dll
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Memory.dll
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\Google.Protobuf.pdb
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\Google.Protobuf.xml
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\MySql.Data.xml
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Buffers.xml
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Memory.xml
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\Interop.Office.dll
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.csproj.ResolveComReference.cache
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.AdminDashboard.AdminEdit.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.AdminMain.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.AdminDashboard.Chart.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Borrowed.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.AdminDashboard.Manage_Equipments.AddEquipment.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.AdminDashboard.Manage_Equipments.EditEquipment.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.AdminDashboard.Manage_Personnels.AddPersonnel.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.AdminDashboard.Manage_Personnels.EditPersonnel.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.AdminDashboard.Manage_Personnels.ManagePersonnel.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.BorrowEquipment.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.BorrowersInfoList.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Admin.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Personnel.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Manage.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.PersonnelDashboard.Manage_Borrower.AddBorrower.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.PersonnelDashboard.Manage_Borrower.EditBorrower.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.PersonnelDashboard.ManageBorrower.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.PersonnelMain.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.PersonnelDashboard.StockIn.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.PersonnelDashboard.StockOut.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Forms.Registration.AdminRegistration.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Properties.Resources.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Returned.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.Transactions.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.ReturnEquipment.resources
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.csproj.GenerateResource.Cache
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.exe
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.pdb
+C:\Users\EUGINE\Desktop\EquipmentBorrowReturn\EquipmentBorrowReturn\obj\Debug\EquipmentBorrowReturn.csprojResolveAssemblyReference.cache
